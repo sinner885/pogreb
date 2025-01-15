@@ -9,4 +9,4 @@ db.sqlite3-journal
 media
 .env
 .venv_p
-local_settings.py
+/config/settings.py
